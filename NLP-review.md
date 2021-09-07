@@ -1,4 +1,4 @@
-## NLP : bencmarking popular Vietnamese tokenzier
+## NLP : benchmarking popular Vietnamese tokenzier
 
 I started this when I tried to build a chatbot in Vietnamese for a property company. Natural language processing on Vietnam language is not that different from English due to the fact that they both use alphabetical characters, a dot to end a sentence or semicolons to separate sentences.  The main difference is Vietnam can use 2 or 3 words to form a noun, thus relies heavily on accuracy of words segmentation. As my research goes, the state of the art annotator for Vietnamese achieves 95% accuracy on large data set, which I think is very good, which includes segmentation, POS and Entity tagging. 
 
