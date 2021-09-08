@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a pracitioner of machine learning (at the moment). I enjoy technology from first principle ✨✨.
+I'm a apprentice of machine learning. I enjoy technology from first principle ✨✨.
 
 <!---
 huybik/huybik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
