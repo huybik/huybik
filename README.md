@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a apprentice of machine learning. I enjoy technology from first principle ✨✨.
+I'm a apprentice of machine learning ✨✨.
 
 -------
 My [blog](https://huybik.github.io)
